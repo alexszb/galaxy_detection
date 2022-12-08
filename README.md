@@ -2,7 +2,7 @@
 
 This is a project to detect and classify galaxies on sky images. It can show their main class type (spiral / elliptical) and also detect galactic rings.
 
-The current 3 main modules are: sky image generator, Faster R-CNN neural network, DBSCAN - CNN, GUI
+The current 4 main modules are: sky image generator, Faster R-CNN neural network, DBSCAN - CNN, GUI
 
 Sky image generator
 - Downloads the target galaxy types from the SDSS telescope sky-server after filtering a galaxy catalogue.
